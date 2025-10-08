@@ -1,5 +1,8 @@
 # 🧠 Business Insights 360
 
+🔗 **View the interactive Power BI dashboard here:**  
+👉 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGFjZWQxYjItOGUwMS00ZjBjLTk4MjctZmMzMGY0NTVjNzI1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ### 🚀 End-to-End Power BI Project
 
 **Business Insights 360** is a comprehensive Power BI dashboard designed to deliver a unified, 360° view of key business performance metrics across **Sales, Finance, Marketing, Supply Chain, and Executive Management**.  
